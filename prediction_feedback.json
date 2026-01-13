@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20251001_161200_nooilspill.jpeg",
+    "timestamp": "2025-10-01T16:12:00.246842",
+    "label": "No Oil Spill",
+    "confidence": 0.6508141756057739,
+    "filename": "nooilspill.jpeg",
+    "feedback": true
+  },
+  {
+    "id": "20251010_134014_a.jpg",
+    "timestamp": "2025-10-10T13:40:14.431049",
+    "label": "Oil Spill",
+    "confidence": 0.9904698729515076,
+    "filename": "a.jpg",
+    "feedback": null
+  },
+  {
+    "id": "20251010_134032_nooilspill.jpeg",
+    "timestamp": "2025-10-10T13:40:32.886094",
+    "label": "No Oil Spill",
+    "confidence": 0.6508141756057739,
+    "filename": "nooilspill.jpeg",
+    "feedback": null
+  }
+]
